@@ -34,7 +34,7 @@ echo "en_US.UTF-8 UTF-8" >> /etc/locale.gen && echo "LANG=en_US.UTF-8" >> /etc/l
 ### packages
 
 ```bash
-pacman -S ntp zsh git fzf docker ranger terminus-font powerline powerline-fonts awesome-terminal-fonts
+pacman -S ntp zsh git fzf docker powerline powerline-fonts
 ```
 
 ### updates

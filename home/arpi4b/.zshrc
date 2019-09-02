@@ -109,9 +109,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-alias fm='ranger'
-#archey3
-
 /opt/vc/bin/vcgencmd measure_temp
 /opt/vc/bin/vcgencmd measure_volts core
 /opt/vc/bin/vcgencmd measure_volts sdram_c
