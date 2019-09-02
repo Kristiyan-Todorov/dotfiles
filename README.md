@@ -49,16 +49,16 @@ pacman -Syu
 echo "%wheel ALL=(ALL) ALL" >> /etc/sudoers
 ```
 
-### usr
+### user
 
 ```bash
-useradd -m -d /home/usr -G wheel -s /bin/zsh usr
+useradd -m -d /home/arpi4b -G wheel -s /bin/zsh arpi4b
 ```
 
-### usr password
+### user password
 
 ```bash
-passwd usr
+passwd arpi4b
 ```
 
 ### Remove default user
